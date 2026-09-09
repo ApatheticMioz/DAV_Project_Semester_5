@@ -4,7 +4,7 @@
 ================================================================================
 
 Authors:
-  - M. Abdullah Ali      (23i-2523)  |  i232523@isb.nu.edu.pk
+  - ApatheticMioz
   - M. Abdullah Aamir    (23i-2538)  |  i232538@isb.nu.edu.pk
 
 ================================================================================
@@ -12,7 +12,7 @@ Authors:
 ================================================================================
 
 ------------------------------------------------------------------------------
-M. ABDULLAH ALI (23i-2523)
+APATHETICMIOZ
 ------------------------------------------------------------------------------
 
 DATA ENGINEERING & ETL PIPELINE:
@@ -63,7 +63,7 @@ REPORT - ANALYTICAL SECTIONS:
                          WORK DISTRIBUTION SUMMARY
 ================================================================================
 
-Component                          | Abdullah Ali | Abdullah Aamir
+Component                          | ApatheticMioz | Abdullah Aamir
 -----------------------------------|--------------|----------------
 ETL Pipeline Development           |     100%     |       0%
 Feature Engineering (Indices)      |     100%     |       0%
@@ -81,7 +81,7 @@ OVERALL CONTRIBUTION               |      50%     |      50%
 We confirm that the above represents an accurate description of our 
 individual contributions to this project.
 
-M. Abdullah Ali
+ApatheticMioz
 
 M. Abdullah Aamir
 
