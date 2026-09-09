@@ -129,7 +129,7 @@ python run_diagnostics.py
 
 ## Authors
 
-- **M. Abdullah Ali** (23i-2523) - ETL Pipeline & Feature Engineering
+- **ApatheticMioz** (23i-2523) - ETL Pipeline & Feature Engineering
 - **M. Abdullah Aamir** (23i-2538) - Tableau Dashboard & Data Collection
 
 See [authors.txt](authors.txt) for detailed contribution breakdown.
